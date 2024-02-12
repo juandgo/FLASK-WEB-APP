@@ -1,4 +1,4 @@
-# This project is built it with the help of the totorial of the chanel tech with tim
+# This project is built it with the help of the tutorial of the chanel tech with tim
 
 ## Setup & Installation
 
